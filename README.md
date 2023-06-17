@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my solution ](./thumb.png)
+![Screenshot of my solution ](./thumb.jpg)
 
 ## My Process
 
